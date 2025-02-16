@@ -1,0 +1,2 @@
+UcvN.set("erd",class extends UcuN{constructor(){const a=Ucz(UctN);super("erd.js");this.Ine=Ucz(Ucoll);this.Jm="^ERD";Ucdll.register(this.id,a.oa);Ucgll.register(this.id,a.oa);Uchll.register(this.id,a.oa);Ucell.register(this.id,a.oa);this.aS.add(Ucmll);this.Hga.add(Ucmll);this.Te.xq("erd.js",this.Ine.Ine())}sB(){return Ucv_.sB()}});
+//# sourceURL=/js/application/universalcanvas_app/chunk/erd.js?compiled=1

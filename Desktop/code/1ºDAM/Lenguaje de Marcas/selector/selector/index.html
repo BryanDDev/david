@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="recogeformulario.php" method="post" name="formulario" target="_blank">
+        <p>Nombre:&nbsp;<input name="nombre" type="text" /></p>
+        
+        <p>Edad:&nbsp;<input name="edad" type="text" /></p>
+        
+        <p>Estudios:&nbsp;
+            <select name="estudios">
+                <option selected="selected" value="#">Seleccionar</option>
+                <option value="dam">DAM</option><option value="edi">EDI</option>
+                <option value="teseas">TESEAS</option>
+            </select>
+        </p>
+        
+        <p>Centro:&nbsp;<input name="centro" type="radio" value="Madrid" />Madrid&nbsp;<input name="centro" type="radio" value="Toledo" />Toledo</p>
+        
+        <p><input name="enviar" type="submit" value="Enviar" /></p>
+        </form>
+</body>
+</html>

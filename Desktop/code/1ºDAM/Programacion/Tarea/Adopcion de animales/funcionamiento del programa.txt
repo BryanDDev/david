@@ -1,0 +1,11 @@
+Programa para adoptar animales.
+Funcionamient:
+Le damos a run y abre un menu con 2 opciones
+Si seleccionamos opcion 1:
+	1.nos pregunta entre la categoria de animales disponible para adoptar.
+	2.despues de haber elegido la categoria nos muestra la raza del animal	
+		disponible y nos pregunta cual queremos adoptar.
+	3.Nos muestra en consola la raza que hemos adoptado. 
+		(el numero tiene que ser valido y estar entre 0 y el "lenght" de gatos.
+Mismo proceso si seleccionamos perros. 
+opcion 2: nos saca de la aplicacion. 

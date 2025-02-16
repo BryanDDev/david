@@ -1,0 +1,18 @@
+button{
+    border-radius: 50px;
+    background-color: blue lightblue;
+}
+table{
+    border-radius: 10px;
+
+}
+tr{
+    border-radius: 25px;
+}
+td{
+    border-radius: 10px;
+}
+#marco{
+    background-color: red;
+    
+}

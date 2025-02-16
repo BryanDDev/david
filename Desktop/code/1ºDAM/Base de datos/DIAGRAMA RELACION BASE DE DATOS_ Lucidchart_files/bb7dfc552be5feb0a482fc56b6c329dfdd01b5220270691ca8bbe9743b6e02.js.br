@@ -1,0 +1,6 @@
+i18n.setData(
+    JSON.parse(
+        "{\"plugin-erd-contextmenu-delete-row\":\"Eliminar fila\",\"plugin-erd-contextmenu-insert-row-above\":\"Insertar fila arriba\",\"plugin-erd-contextmenu-insert-row-below\":\"Insertar fila abajo\",\"plugin-erd-default-text-entity\":\"Entidad\",\"plugin-erd-default-text-field\":\"Campo\",\"plugin-erd-default-text-key\":\"Clave\",\"plugin-erd-default-text-type\":\"Tipo\",\"plugin-erd-plugin-name\":\"Relación entre entidades\",\"plugin-erd-search-keywords\":\"erd, entidad, relación\",\"plugin-erd-toolbox-button-export\":\"Exportar\",\"plugin-erd-toolbox-button-import\":\"Importar\",\"plugin-erd-toolbox-button-import-salesforce\":\"Importación de Salesforce\",\"plugin-erd-toolbox-entity-name\":\"Entidad\"}"
+    ),
+    'es-LA'
+);

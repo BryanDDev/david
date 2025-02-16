@@ -1,0 +1,2 @@
+UcnR("estimationview","estimation",class extends Ucg{constructor(){const a=Ucz(UcU5j);super();a.register({H3f:[UcNg.j8d,UcNg.b9d]})}});
+//# sourceURL=/js/application/universalcanvas_app/chunk/estimationview.js?compiled=1

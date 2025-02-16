@@ -1,0 +1,86 @@
+*{
+    margin:0px;
+    padding:0px;
+    
+}
+body{
+    width: 100vw;
+    height: 100vh;
+    
+}
+header{
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    background-color: #740938;
+   
+}
+.perro-portada{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+
+.nav{
+    border-top: solid black 2px;
+    border-bottom: black 2px solid;
+    background-color: #AF1740;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    text-decoration: none;
+
+    
+    
+    
+  
+}
+ul{
+    list-style: none;
+   
+    
+}
+a{
+    text-decoration: none;
+    color: azure;
+   
+}
+.section{
+    display: flex;
+    flex-direction: row;
+    background-color: #CC2B52;
+    color: azure;
+}
+.img-perros{
+    width: 10vw;
+    height: 10vw;
+}
+.div-1{
+    
+    background-color: #DE7C7D;
+}
+.div-2{
+    
+    background-color: #DE7C7D;
+}
+.div-3{
+    
+  background-color: #DE7C7D;
+}
+footer{
+    background-color: #AF1740;
+    height: 10vh;
+
+}
+.img-footer{
+    width: 20px;
+    height: 20px;
+    padding-left: 20vw;
+    margin-top: 10px;
+}
+.creacion{
+    padding-top: 20px;
+    padding-left: 40vw;
+}

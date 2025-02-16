@@ -1,0 +1,19 @@
+Archivo XML:
+
+<poblacion id ="1" name = "" value = "">
+<persona> 
+	<nombre>Bryan</nombre>
+	<edad>26</edad>
+	<ciudad>Toledo</ciudad>
+</persona>
+<persona> 
+	<nombre>Pedro</nombre>
+	<edad>25</edad>
+	<ciudad>Madrid</ciudad>
+</persona>
+<persona> 
+	<nombre>Marta</nombre>
+	<edad>22</edad>
+	<ciudad>Barcelona</ciudad>
+</persona>
+</poblacion>

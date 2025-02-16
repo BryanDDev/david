@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family:Arial, Helvetica, Georgia;
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #C6E7FF;
+   
+}
+h1{
+    margin: 20px 0 20px 0;
+    text-align: center;
+    border: solid lightblue 10px;
+    border-radius: 20px;
+    padding: 50px;
+    
+}
+header{
+    
+    width: 100%;
+    
+    
+}
+h4{
+    
+    color: white;
+    text-align: center;
+    margin: 5px 10px 5px 10px;
+}
+.oferta{
+    background-color: red;
+}
+.banner{
+    width: 100%;
+    height: 60vh;
+    margin-bottom: 10px;
+    
+    
+}
+
+
+th,td{
+    border: solid black 1px;
+    border-radius: 10px;
+    text-align: center;
+    width: 80vw;
+
+}
+.titulo{
+    color: #003366;
+}
+.fila1 , .fila4{
+    background-color: lightgray;
+}
+.fila0{
+    background-color: lightblue;
+}
+.fila3, .tv{
+    background-color: white;
+}
+
+.lista-ordenada, .lista-desordenada{
+    font-size:xx-large;
+    margin-left: 50px ;
+
+}

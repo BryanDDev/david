@@ -1,0 +1,6 @@
+i18n.setData(
+    JSON.parse(
+        "{\"ai-feedback-question\":\"Califica los resultados\",\"ai-loading-sorting-ideas-longer-loading-v2\":\"¡Ya casi está! Agrupando ideas... Esto podría tardar {estimatedSeconds} segundos.\",\"ai-loading-sorting-ideas-v2\":\"Ordenando ideas...\",\"ai-summary-summarizing-longer-loading-v2\":\"¡Ya casi está! Escribiendo un resumen... Está tardando un poco más, pero terminará pronto.\",\"ai-summary-summarizing-v2\":\"Resumiendo el contenido...\"}"
+    ),
+    'es-LA'
+);

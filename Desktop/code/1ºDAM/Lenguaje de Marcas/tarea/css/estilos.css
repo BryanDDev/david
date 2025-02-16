@@ -1,0 +1,91 @@
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #DFF2EB;
+    
+    
+}
+
+.titulo{
+    width: 100%;
+    padding: 5px; 
+    
+   
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    gap: 200px;
+    
+    
+}
+.navegacion{
+    border-radius: 20px;
+    width: 10px;
+    
+}
+.img-moto{
+    border-radius: 40px;
+    width: 100%;
+      
+    
+}
+
+.barra-nav{
+    background-color:  #B9E5E8;
+    
+    
+ 
+}
+li{
+
+    
+    border-right: solid black ;
+        
+}
+
+.barra-nav:hover{
+    color: red;
+    
+    
+    
+    
+}
+
+ul{
+    list-style-type: none;
+}
+li:hover{
+    background-color: blue;
+}
+a { 
+    text-decoration: none; 
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size:large;
+
+}
+
+h3{
+    margin-left: 20vh;
+    margin-bottom: 10vh;
+}
+.subtitulo{
+    font-weight:bold;
+}
+.parrafo{
+    font-weight:300;
+}
+footer{
+    background-color: #7AB2D3;
+    margin:0 0 -10px -10px;
+    
+    }
+.footer-div{
+    margin-left: 40%;
+    width: 100%;
+    
+}
+.img-footer{
+    width: 10%;
+    
+}

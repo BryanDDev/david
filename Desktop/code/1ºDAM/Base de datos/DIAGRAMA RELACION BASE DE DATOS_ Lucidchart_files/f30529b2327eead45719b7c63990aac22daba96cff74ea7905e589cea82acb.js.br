@@ -1,0 +1,2 @@
+function UcfX(a,b,c){Ucjhk(a.Yga,c,[b]);if(a.eRd.value)throw Error("A lazy component token may not register multiple components");a.H8f.resolve({component:b,spb:c})};
+//# sourceURL=/js/application/universalcanvas_app/chunk/gen_3fbde00300040280600000000000008000000000000000000000000000000000000000.js?compiled=1
